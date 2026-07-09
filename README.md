@@ -1,1 +1,3 @@
-# Converter_C
+# Random_number
+
+Игра отгадай число от 1 до 100 на языке C
